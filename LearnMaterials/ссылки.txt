@@ -1,0 +1,3 @@
+https://github.com/education-repos
+
+https://gitlab.com/rvasily/msu-go-11/-/tree/master/2/99_homework
